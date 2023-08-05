@@ -14,3 +14,5 @@ YOK Atlas was first opened for public use during the 2016-OSYS process to help s
 - Numerous modules were launched on YOK Atlas
 
 In addition to the modules of Undergraduate/Associate Degree and Net Wizard, modules such as “Turkish Universities”, “Undergraduate/Associate Degree Selection Wizard”, “Graduate Ranking Atlas”, “Occupation Atlas” and “My Selection List” are also included in the program. CoHE continues to work on updating these modules.
+
+The python script allows you to extract data from YOK Atlas.
